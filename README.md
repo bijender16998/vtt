@@ -12,3 +12,6 @@
  
 4.video for video-transcription
  https://drive.google.com/file/d/1a-KoAEl1IgTIMO_xqfEkoBj7i8z5ceZp/view?usp=sharing
+ 
+#tessract-ocr can be installed from here for text extraction:
+https://digi.bib.uni-mannheim.de/tesseract/
